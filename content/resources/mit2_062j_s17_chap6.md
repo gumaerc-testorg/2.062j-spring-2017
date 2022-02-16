@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-062j-wave-propagation-spring-2017/bcd65b1974a98c75a230b2f8297c3ffa_MIT2_062J_S17_Chap6.pdf
+file: /media/courses/2-062j-wave-propagation-spring-2017/bcd65b1974a98c75a230b2f8297c3ffa_MIT2_062J_S17_Chap6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 2.062J(S17) Wave Propagation Chapter 6
 uid: bcd65b19-74a9-8c75-a230-b2f8297c3ffa
