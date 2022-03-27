@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c3c6f131-89d0-405b-3d9a-d1bd82340b19
 resourcetype: Document
 title: 2.062J(S17) Wave Propagation Quiz 1
 uid: 25ec1444-0412-b2b5-4874-db79f0cfd622

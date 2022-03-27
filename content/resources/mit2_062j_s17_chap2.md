@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 58d49c52-f22f-c6cf-f648-a985b43b54e9
 resourcetype: Document
 title: 2.062J(S17) Wave Propagation Chapter 2
 uid: 9e6f7f49-eea8-381d-7296-5b469e1a3fdf
