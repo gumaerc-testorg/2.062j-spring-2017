@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 137033bb-371f-28e3-ee22-66f6d6d22673
 ---
@@ -12,7 +15,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-_[2.003J Dynamics and Control I](/courses/2-003j-dynamics-and-control-i-fall-2007/)_ and _[18.075 Advanced Calculus for Engineers](/courses/18-075-advanced-calculus-for-engineers-fall-2004/)_
+_[2.003J Dynamics and Control I](/courses/2-003j-dynamics-and-control-i-fall-2007)_ and _[18.075 Advanced Calculus for Engineers](/courses/18-075-advanced-calculus-for-engineers-fall-2004)_
 
 Course Description
 ------------------
