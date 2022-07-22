@@ -5,6 +5,7 @@ file: /courses/2-062j-wave-propagation-spring-2017/9e6f7f49eea8381d72965b469e1a3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

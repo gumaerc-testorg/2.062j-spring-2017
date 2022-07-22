@@ -5,6 +5,7 @@ file: /courses/2-062j-wave-propagation-spring-2017/25ec14440412b2b54874db79f0cfd
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
