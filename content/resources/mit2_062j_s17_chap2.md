@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-062j-wave-propagation-spring-2017/9e6f7f49eea8381d72965b469e1a3fdf_MIT2_062J_S17_Chap2.pdf
+file_size: 396126
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
