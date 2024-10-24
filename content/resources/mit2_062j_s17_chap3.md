@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-062j-wave-propagation-spring-2017/76f759325a67ca2f4e418527d5d1e04c_MIT2_062J_S17_Chap3.pdf
+file: /ol-ocw-studio-app/courses/2-062j-wave-propagation-spring-2017/76f759325a67ca2f4e418527d5d1e04c_MIT2_062J_S17_Chap3.pdf
 file_size: 2211732
 file_type: application/pdf
 learning_resource_types:
